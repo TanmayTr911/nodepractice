@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "node parctice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanmayTr911/nodepractice.git"
+  },
+  "author": "tanmaytr911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanmayTr911/nodepractice/issues"
+  },
+  "homepage": "https://github.com/TanmayTr911/nodepractice#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
